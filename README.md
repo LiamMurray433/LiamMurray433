@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @LiamMurray433
-- 👀 I’m interested in Formula 1, games and learning Web Dev
-- 🌱 I’m currently learning JavaScript, CSS, python 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Liam
+- 👀 I am a passsionate Formula 1 fan, avid sim racer and lover of all things videosgame. I also like plants.
+- 🌱 I’m currently a Software Engineering student
 - 📫 How to reach me ...l.murray8391@gmail.com
 
 <!---
