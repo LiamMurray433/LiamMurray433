@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Liam
 - 👀 I am a passsionate Formula 1 fan, avid sim racer and lover of all things videogames. I also like plants.
-- 🌱 I’m currently a Software Engineering student
+- 🌱 I’m currently a Software Engineering student with skills in Java, Python, SQL, HTML, CSS and JavaScript. 
 - 📫 How to reach me ...l.murray8391@gmail.com
 
 <!---
